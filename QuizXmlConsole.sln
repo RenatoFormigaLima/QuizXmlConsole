@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32228.343
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizXmlConsole", "QuizXmlConsole.csproj", "{9B1286CA-AB5E-4342-9A8F-9039E19A1F74}"
-EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupV1", "Instalador\SetupV1\SetupV1.vdproj", "{8050D35A-D933-42CB-8753-BF2921B30AFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,17 +15,11 @@ Global
 		{9B1286CA-AB5E-4342-9A8F-9039E19A1F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B1286CA-AB5E-4342-9A8F-9039E19A1F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B1286CA-AB5E-4342-9A8F-9039E19A1F74}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8050D35A-D933-42CB-8753-BF2921B30AFF}.Debug|Any CPU.ActiveCfg = Debug
-		{8050D35A-D933-42CB-8753-BF2921B30AFF}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {655A2A2A-267A-48CA-844C-89FE27E46B50}
-	EndGlobalSection
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 EndGlobal
