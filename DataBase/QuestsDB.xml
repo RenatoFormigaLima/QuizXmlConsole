@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Assuntos>
+  
+  <Assunto id="U2S3">
+    <Questoes>
+      <Questao qid="0">
+        <texto>
+          <pergunta>Em um sistema operacional, possuimos os famosos threads,\nEles sao muito importantes para nos. O que eh thread?</pergunta>
+          <img>n</img>
+          <alternativas>
+            <alternativa aid="0">a)2</alternativa>
+            <alternativa aid="1">b)3</alternativa>
+            <alternativa aid="2">c)4</alternativa>
+            <alternativa aid="3">d)0</alternativa>
+          </alternativas>
+        </texto>
+        <resposta>a</resposta>
+        <score>100</score>
+      </Questao>
+
+      <Questao qid="1">
+        <texto>
+          <pergunta>Quanto é 1+3?</pergunta>
+          <img>n</img>
+          <alternativas>
+            <alternativa aid="0">a)5</alternativa>
+            <alternativa aid="1">b)6</alternativa>
+            <alternativa aid="2">c)7</alternativa>
+            <alternativa aid="3">d)8</alternativa>
+          </alternativas>
+        </texto>
+        <resposta>c</resposta>
+        <score>100</score>
+      </Questao>
+
+      <Questao qid="2">
+        <texto>
+          <pergunta>Quanto é 1+4?</pergunta>
+          <img>n</img>
+          <alternativas>
+            <alternativa aid="0">a)9</alternativa>
+            <alternativa aid="1">b)10</alternativa>
+            <alternativa aid="2">c)11</alternativa>
+            <alternativa aid="3">d)12</alternativa>
+          </alternativas>
+        </texto>
+        <resposta>c</resposta>
+        <score>100</score>
+      </Questao>      
+  </Questoes>
+  </Assunto>
+</Assuntos>

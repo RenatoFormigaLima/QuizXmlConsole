@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Users>
+  <User id="0" type="admin">
+    <login>adm</login>
+    <passw>adm123</passw>
+    <scores>
+      <score aid="0"></score>
+    </scores>
+  </User>
+
+  <User id="1" type="aluno">
+    <login>Renato</login>
+    <passw>aluno123</passw>
+    <scores>
+      <score aid="0"></score>
+    </scores>
+  </User>
+</Users>
